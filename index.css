@@ -1,0 +1,85 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#picker-container {
+    background-color: #1f2937;
+    border: 1px solid black;
+    height: 550px;
+    width: 550px;
+}
+
+#picker-header,
+#colors,
+#color-hex {
+    width: 100%;
+    border: 0.5px solid gainsboro;
+}
+
+#picker-header {
+    justify-content: space-around;
+    align-items: center;
+    display: flex;
+    height: 90px;
+}
+
+#colors {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 410px;
+    color: white;
+}
+
+#color-hex {
+    color: white;
+    padding: 2px;
+    height: 46px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#input-color {
+    border: none;
+    height: 42px;
+    width: 61px;
+    border-radius: 3px;
+
+}
+
+#scheme-select {
+    padding: 3px;
+    color: white;
+    background-color: #1f2937;
+    width: 312px;
+    height: 42px;
+    border-radius: 3px;
+    border: 1px solid white;
+}
+
+button {
+    color: white;
+    width: 123px;
+    height: 42px;
+    background: #3d4b60;
+    border: 1px solid #d1d5db;
+    border-radius: 3px;
+}
+
+#singleColorDiv{
+    border: 1px solid black;
+    height: 410px;
+    width: 110px;
+}
+
+#hexValues{
+    width: 54px;
+    height: 24px;
+    color: white;
+}
