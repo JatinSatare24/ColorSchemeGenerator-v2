@@ -1,0 +1,35 @@
+<html>
+
+<head>
+    <link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+    <main>
+        <div id="picker-container">
+            <div id="picker-header">
+                <input type="color" id="input-color">
+                <select name="colorScheme" id="scheme-select">
+                    <option value="monochrome">Monochrome</option>
+                    <option value="monochrome-dark">Monochrome-dark</option>
+                    <option value="monochrome-light">Monochrome-light</option>
+                    <option value="analogic">Analogic</option>
+                    <option value="complement">Complement</option>
+                    <option value="analogic-complement">Analogic-complement</option>
+                    <option value="triad">Triad</option>
+                    <option value="quad">Quad</option>
+                </select>
+                <button id="btn">Get color scheme</button>
+            </div>
+            <div id="colors">
+                <p>Colors will be displayed here</p>
+            </div>
+            <div id="color-hex">
+                <p>Color hex values will be displayed here</p>
+            </div>
+        </div>
+    </main>
+    <script src="index.js"></script>
+</body>
+
+</html>
