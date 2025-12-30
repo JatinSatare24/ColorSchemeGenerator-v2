@@ -1,19 +1,23 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# 🎨 Color Scheme Generator (v2.0)
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+A refined evolution of the original Color Scheme Generator. Version 2.0 focuses on a complete overhaul of the application's visual architecture and structural layout to create a more professional user interface.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## 🚀 Progress in v2.0
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+* **UI Restructuring:** Rebuilt the HTML foundation to allow for a more professional and scalable layout.
+* **Visual Overhaul:** Implemented a new CSS design system to improve the aesthetic polish and user interface experience.
+* **Architectural Transition:** Established a clear separation from the v1 logic to focus on a "Product-First" design approach.
 
-Happy Coding!
+## 🛠️ Tech Stack
+
+* **HTML5** - Advanced semantic structure for the new generator interface.
+* **CSS3** - Enhanced styling and layout configurations for a modern look.
+* **Git** - Version control used to track the evolution from the initial prototype to this refined build.
+
+## 🧠 Current Development Status
+
+* **Status:** UI/UX Foundation Completed.
+* **Ready for:** JavaScript Logic and API Integration.
+
+---
+*Created as part of the 2026 Developer Mastery Rebuild.*
