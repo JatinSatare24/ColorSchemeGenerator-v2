@@ -12,6 +12,7 @@ A refined evolution of the original Color Scheme Generator. Version 2.0 focuses 
 
 * **HTML5** - Advanced semantic structure for the new generator interface.
 * **CSS3** - Enhanced styling and layout configurations for a modern look.
+* JS - Enhanced logic for the app
 * **Git** - Version control used to track the evolution from the initial prototype to this refined build.
 
 ## 🧠 Current Development Status
