@@ -10,6 +10,7 @@ btn.addEventListener("click", function () {
         .then(res => res.json())
         .then(
             data => {
+                console.log(data)
                 colorContainer.innerHTML = ''
                 colorHex.innerHTML = ''
                 data.colors.forEach(color => {
